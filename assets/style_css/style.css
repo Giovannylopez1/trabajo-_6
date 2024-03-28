@@ -1,0 +1,30 @@
+
+.encabezado{
+    background-color: #52b788;
+}
+
+
+.encabezado h1{
+    display: flex; 
+  justify-content: center;
+  padding-top: 25px;
+  margin-bottom: 0%;
+}
+
+.encabezado h3{
+    display: flex;
+    justify-content: center;
+ margin-top: 0%;
+ padding-bottom: 25px;   
+}
+
+.navegacion { 
+    display: flex;
+    justify-content:end;
+    margin-right: 100px;
+}
+
+body { 
+    background-color: #8b8f91
+    ;
+}
